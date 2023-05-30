@@ -1,4 +1,4 @@
-return {
+
 	["1MVisits"] = {
 		["Active"] = true,
 		["RewardType"] = "Robux",
@@ -22,4 +22,3 @@ return {
 		["RewardType"] = "Robux",
 		["RewardValue"] = "1000000"
 	};
-}
