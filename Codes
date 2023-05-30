@@ -1,4 +1,4 @@
-local Codes = {
+return {
 	["1MVisits"] = {
 		["Active"] = true,
 		["RewardType"] = "Robux",
@@ -23,5 +23,3 @@ local Codes = {
 		["RewardValue"] = "1000000"
 	};
 }
-
-return Codes
