@@ -22,6 +22,6 @@
 		"Active": true,
 		"RewardType": "Robux",
 		"RewardValue": "1000000"
-	}
+	};
 
 }
